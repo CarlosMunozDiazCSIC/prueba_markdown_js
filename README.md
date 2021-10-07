@@ -13,3 +13,5 @@ Antes de iniciar el proceso de instalación del proyecto, es necesario tener ins
 Posteriormente, se debe clonar este repositorio en cualquier carpeta de su entorno (por ejemplo, en el escritorio). Una vez hecho esto, se debe ejecutar el comando **npm install** para disponer de todos los paquetes y librerías instalados de forma previa en el proyecto.
 
 (Esto es un Markdown de prueba)
+
+(Estoy haciendo un cambio en el README para ver si, posteriormente, se refleja en el HTML de mi página en local)
